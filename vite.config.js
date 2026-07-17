@@ -1,5 +1,5 @@
 export default {
-  base: "/concentric-loop",
+  base: "/screensaver",
   build: {
     chunkSizeWarningLimit: 1600,
   },
